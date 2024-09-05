@@ -1,0 +1,19 @@
+.textCenter{
+    text-align: center;
+}
+.bg-red{
+background-color: maroon;
+}
+.auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+
